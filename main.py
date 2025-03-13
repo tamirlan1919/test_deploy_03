@@ -10,8 +10,8 @@ def divide(a: int, b: int) -> float:
 #git restore
 #git diff
 #git rm --cached file_name
-#git branch - показывает ветки
-#git branch название ветки
+#git branch  показывает ветки
+#git branch second
 #git checkout second
 
 # | |
